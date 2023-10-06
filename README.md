@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @753AQW
-- 👀 I’m interested in baskteball.
+- 👀 I’m interested in baskeball.
 - 🌱 I’m currently learning c++.
 
 <!---
